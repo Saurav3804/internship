@@ -1,1 +1,2 @@
-The basic project created in Angular.
+The basic internship project.
+
