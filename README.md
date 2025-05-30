@@ -1,2 +1,0 @@
-The basic internship project.
-
